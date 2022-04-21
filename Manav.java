@@ -17,8 +17,7 @@ public class Manav {
         muz = 0.95;
         patlıcan = 5.00;
 
-        /* First I wait for the user to enter a value, then I assign a value to my variable
-           using the Here Scanner method. */
+        // First I wait for the user to enter a value, then I assign a value to my variable using the Here Scanner method.
         System.out.print("Armut Kaç kilo ? ");
         a = kb.nextInt();
 

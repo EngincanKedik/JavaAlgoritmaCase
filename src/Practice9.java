@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Manav {
+public class Practice9 {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
 
@@ -36,6 +36,5 @@ public class Manav {
         // Here I calculate inside the toplam variable, then I print the result using the println method.
         toplam = (armut * a) + (elma * e) + (domates * d) + (muz * m) + (patlıcan * p);
         System.out.println("Toplam Tutar : " + toplam);
-
     }
 }
